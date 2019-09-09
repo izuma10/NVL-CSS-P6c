@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Receta salsa carbonara</title>
+<head>
+      [ingredientes] {
+  color: blue;
+}
+      [numero de paso] {
+  background-color: #0f0;
+}
+      [pasos] {
+  background-color: #0f0;
+}
+</head>
+<body>
+
+<div>
+      <img src="http://unaitalianaenlacocina.es/wp-content/uploads/DSC_3866.jpg" alt="Tus espaguetis carbonara">
+</div>
+<div>
+        <ul>
+            <li data-cantidad="400gr"  ingredientes>Espaguetis</li>
+            <li data-cantidad="170gr" ingredientes>Panceta</li>
+            <li data-cantidad="4" ingredientes>Yemas</li>
+            <li data-cantidad="50gr" >Queso rallado de oveja o parmesano</li>
+            <li data-cantidad="2 cucharadas" >Aceite de oliva</li>
+            <li data-cantidad="Al gusto" >Sal</li>
+        </ul>
+</div>
+<div>
+       <ol><li pasos>Pon a hervir una olla alta con 4 litros de agua como mínimo y con un puñado de sal. 
+                      Cuando esté hirviendo con fuerza hecha los espaguetis al agua.</li>
+                      
+           <li pasos>Mientras ve cortando la panceta en tiras y ponlas en una sartén con 2 cucharadas de aceite caliente.
+           Sofríe a fuego medio teniendo cuidado de que la panceta no se queme y se quede demasiado seca. Primero la panceta 
+           se tiene que volver transparente y luego dorarse ligeramente.</li>
+           
+           <li pasos>Bate las yemas.Añade el queso rallado solo cuando vas a unir las yemas con la pasta</li> 
+           
+           <li pasos>Cuando haya transcurrido casi del todo el tiempo de cocción indicado en el paquete (1 minuto antes) cuela la pasta</li>
+           
+           <li pasos>Echa la pasta en la sartén con la panceta y saltea durante no más de un minuto hasta que toda la pasta se haya empapado
+           bien con el aceite y la panceta quede más o menos distribuida. Quita la sartén del fuego</li>
+           
+           <li pasos>Añade a las yemas el queso rallado y mezcla., después viertelas encima de la pasta y ve removiendo para que el huevo se 
+           distribuya uniformemente. Se rápido a la hora de hacer este paso</li>
+           
+           <li pasos>¡Listo para servir! y no olvides repartir la panceta que queda en el fondo entre todos los comensales</li>
+        </ol>
+</div>
+</html>
